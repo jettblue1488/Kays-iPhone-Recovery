@@ -1,6 +1,7 @@
 package com.kays.iphonerecovery
 
 import android.app.Activity
+import android.app.AlertDialog
 import android.os.Bundle
 import android.hardware.usb.UsbManager
 import android.content.Context
